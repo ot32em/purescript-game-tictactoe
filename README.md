@@ -1,0 +1,1 @@
+Practice for learning purescript

@@ -1,1 +1,4 @@
 *.link
+bower_components/*
+output/*
+*.lnk
